@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Mercado Libre Argentina 🇦🇷](https://github.com/Fersca/MercadoLibre)
 
-- 🌱 I’m currently learning **Frameworks, courses, etc.**
+- 🌱 I’m currently learning **Rust, Haskell, Elixir, Swift, Kotlin, Racket, Groovy, Julia, Dart y Clojure.**
 
 - 👯 I’m looking to collaborate on [Find LowDig Accounts](https://github.com/Ezzpify/FindLowDigAccounts)
 
