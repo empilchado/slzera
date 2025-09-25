@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Python, Java, C++, Android, MEARN.**
 
-- 📫 How to reach me **rubend924.rd@gmail.com**
+- 📫 How to reach me **-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
